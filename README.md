@@ -4,7 +4,9 @@ RunScoringModel.java contains functions that run the NameScorer and LocationScor
 
 WriteToDB.java is a background process to make the number of allowed calls to Twitter API for each timeframe (15 minutes)
 
+
 src/main/config.properties file needs to be filled with user's credential values to connect to hatch database
+
 
 Twitter Profile Project – A confidence or accuracy scoring model to determine whether a twitter handle belongs to a donor prospect.
 The goal:
