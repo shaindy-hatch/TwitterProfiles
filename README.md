@@ -1,6 +1,7 @@
 # TwitterProfiles
 
 RunScoringModel.java contains functions that run the NameScorer and LocationScorer algorithms. 
+
 WriteToDB.java is a background process to make the number of allowed calls to Twitter API for each timeframe (15 minutes)
 
 src/main/config.properties file needs to be filled with user's credential values to connect to hatch database
