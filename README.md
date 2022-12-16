@@ -9,7 +9,8 @@ src/main/config.properties file needs to be filled with user's credential values
 
 
 Twitter Profile Project – A confidence or accuracy scoring model to determine whether a twitter handle belongs to a donor prospect.
-The goal:
+
+Goals:
 1. To verify the accuracy of existing twitter handles associated with donor prospects.  
  - The model will give a confidence score determining how likely a twitter handle in our database corresponds to its associated donor
 
